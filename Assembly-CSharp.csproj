@@ -40,11 +40,35 @@
      <Compile Include="Assets\pared3.cs" />
      <Compile Include="Assets\moverC.cs" />
      <Compile Include="Assets\pared1.cs" />
+     <Compile Include="Assets\general.cs" />
      <Compile Include="Assets\pared4.cs" />
      <Compile Include="Assets\pared2.cs" />
      <Compile Include="Assets\moverB.cs" />
      <Compile Include="Assets\moverA.cs" />
-     <Compile Include="Assets\general.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveOffest.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\RotatorDissolveDir.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\Follow.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\Rotator.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveChilds.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_MouseRotation.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_DissolveOverTime.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_ExampleReview.cs" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Grass Sway.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Blur.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.compute" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Depth Mask Edge Detection.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Ocean.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Dissolve.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plasma.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Outline.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus Line.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Snow.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Lava3D.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Force Field.shader" />
+     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Simple Sine Wave.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.32f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
