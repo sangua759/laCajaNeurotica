@@ -36,25 +36,28 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\moverD.cs" />
-     <Compile Include="Assets\pared3.cs" />
-     <Compile Include="Assets\moverC.cs" />
-     <Compile Include="Assets\pared1.cs" />
-     <Compile Include="Assets\general.cs" />
-     <Compile Include="Assets\pared4.cs" />
-     <Compile Include="Assets\pared2.cs" />
-     <Compile Include="Assets\moverB.cs" />
-     <Compile Include="Assets\moverA.cs" />
-     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveOffest.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_MouseRotation.cs" />
+     <Compile Include="Assets\limites\moverD.cs" />
+     <Compile Include="Assets\limites\pared3.cs" />
+     <Compile Include="Assets\limites\moverC.cs" />
+     <Compile Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
+     <Compile Include="Assets\limites\pared1.cs" />
+     <Compile Include="Assets\limites\general.cs" />
+     <Compile Include="Assets\limites\pared4.cs" />
      <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\RotatorDissolveDir.cs" />
      <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\Follow.cs" />
-     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\Rotator.cs" />
-     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveChilds.cs" />
-     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_MouseRotation.cs" />
-     <Compile Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
+     <Compile Include="Assets\limites\pared2.cs" />
      <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
+     <Compile Include="Assets\limites\moverB.cs" />
      <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_DissolveOverTime.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveChilds.cs" />
      <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_ExampleReview.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\DissolveOffest.cs" />
+     <Compile Include="Assets\limites\moverA.cs" />
+     <Compile Include="Assets\ShaderGraph_Dissolve\Utility\Scripts\Rotator.cs" />
+     <Compile Include="Assets\objetos\aparecer.cs" />
+     <Compile Include="Assets\limites\espacio.cs" />
+     <Compile Include="Assets\objetos\dios.cs" />
      <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
      <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Grass Sway.shader" />
      <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Blur.shader" />
